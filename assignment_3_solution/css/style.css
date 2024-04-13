@@ -1,0 +1,26 @@
+body {
+	background-color: #C4ECFF;
+}
+.navbar-brand {
+	color: black;
+	font-weight: bold;
+	text-shadow: 2px 4px 4px white;
+}
+
+.navbar-toggler:hover .navbar-toggler-icon {
+	background-color: lightblue;
+}
+
+#nav-list a:hover {
+  background: white;
+}
+#nav-list li {
+	border: 1px solid black;
+}
+.nav-link {
+	color: black;
+}
+.h3 {
+	margin: 0;
+	padding: 16px;
+}
